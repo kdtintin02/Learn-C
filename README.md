@@ -1,2 +1,2 @@
 # Learn-C
-Steps in learning C Language 
+Learning C Programming ini dibuat menggunakan compiler online: onlineGDB.
