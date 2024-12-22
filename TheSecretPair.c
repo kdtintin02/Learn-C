@@ -1,4 +1,4 @@
-//The secret Pair
+//The secret Pair - Commit by Sutini Dharma Oetomo
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
